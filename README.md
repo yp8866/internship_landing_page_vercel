@@ -1,6 +1,7 @@
 # This is the simple Landing page made using a CRA [totally component based design] for an internship application
 
-![Screenshot (250)](https://github.com/yp8866/myapp2/assets/122187543/c1755958-81ce-4c2b-b807-fa5d6ddeb61b)
+![Screenshot (250)](https://github.com/yp8866/internship_landing_page_vercel/assets/122187543/534e17f9-c457-451d-8bfa-183a234f1c22)
+
 
 
 ## Available Scripts
